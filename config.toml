@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://neppo.net/"
 languageCode = "ja"
 title = "ねっぽのゆるふわメモ"
 theme = "hyde"
@@ -6,5 +6,5 @@ theme = "hyde"
 [params]
 themeColor = "theme-base-0d"
 description = "ゆるふわエンジニアのゆるふわな活動記録"
-copyright = "Neppo Telewisteria"
+
 
