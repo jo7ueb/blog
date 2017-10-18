@@ -3,8 +3,12 @@ languageCode = "ja"
 title = "ねっぽのゆるふわメモ"
 theme = "hyde"
 
+[permalinks]
+blog = "/:year/:month/:slug/"
+
 [params]
 themeColor = "theme-base-0d"
 description = "ゆるふわエンジニアのゆるふわな活動記録"
-
+disqusShortname = "neppo-net"
+googleAnalytics = "UA-108252466-1"
 
