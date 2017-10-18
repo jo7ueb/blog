@@ -4,7 +4,7 @@ title = "ねっぽのゆるふわメモ"
 theme = "hyde"
 
 [permalinks]
-blog = "/:year/:month/:slug/"
+blog = "/blog/:year/:month/:slug/"
 
 [params]
 themeColor = "theme-base-0d"
