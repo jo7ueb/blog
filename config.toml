@@ -13,3 +13,6 @@ description = "ゆるふわエンジニアのゆるふわな活動記録"
 disqusShortname = "neppo-net"
 googleAnalytics = "UA-108252466-1"
 
+[blackfriday]
+hrefTargetBlank = true
+
