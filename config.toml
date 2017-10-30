@@ -1,4 +1,4 @@
-baseURL = "http://neppo.net/"
+baseURL = "https://neppo.net/"
 languageCode = "ja"
 hasCJKLanguage = true
 title = "ねっぽのゆるふわメモ"
