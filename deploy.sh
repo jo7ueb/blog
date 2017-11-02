@@ -23,3 +23,8 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+# commit blog source
+git commit -am "$msg"
+git push origin master
+
