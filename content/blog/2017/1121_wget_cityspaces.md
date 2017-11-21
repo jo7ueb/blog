@@ -1,6 +1,6 @@
 ---
-title: "wget で認証突破！ Cityspaces データセットをダウンロードする"
-slug: "1121_wget_cityspaces"
+title: "wget で認証突破！ Cityscapes データセットをダウンロードする"
+slug: "1121_wget_cityscapes"
 date: 2017-11-21T20:11:10+09:00
 categories: [""]
 tags: [""]
@@ -15,7 +15,7 @@ tags: [""]
 今後は、計算用マシンを活用してCNNの実装実験とかを色々やってみたいなと思っています。
 
 さて、ディープラーニングで何か遊ぼうとした時に、データセットが必須となります。
-今回は、 [Cityspases Dataset](https://www.cityscapes-dataset.com) を入手して
+今回は、 [Cityscapes Dataset](https://www.cityscapes-dataset.com) を入手して
 Semantic Segmentation の実験の準備をしたいと思います。
 
 <a class="embedly-card" href="https://www.cityscapes-dataset.com/">Cityscapes Dataset</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -25,7 +25,7 @@ Semantic Segmentation の実験の準備をしたいと思います。
 GUIを立ち上げてブラウザで落としてもいいのですが、ここはせっかくなので **wgetで**
 データを落としてみたいと思います。
 
-すると、ここで問題になるのが、 **Cityspases のダウンロードにはユーザー認証が必要** ということで、
+すると、ここで問題になるのが、 **Cityscapes のダウンロードにはユーザー認証が必要** ということで、
 忘備録をかねてメモを残します。
 
 ## Step 1. ユーザー認証ログイン
