@@ -16,3 +16,15 @@ googleAnalytics = "UA-108252466-1"
 [blackfriday]
 hrefTargetBlank = true
 
+[[menu.main]]
+name = "twitter"
+identifier = "twitter"
+weight = -110
+url = "https://twitter.com/jo7ueb"
+
+[[menu.main]]
+name = "GitHub"
+identifier = "github"
+weight = -100
+url = "https://github.com/jo7ueb"
+
